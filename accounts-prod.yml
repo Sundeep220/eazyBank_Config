@@ -11,7 +11,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
-    name: "John - Prod Owner"
+    name: "John - Product Owner"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
